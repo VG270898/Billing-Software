@@ -1,0 +1,24 @@
+
+	    SHOOPING BILL
+	  6004(I)Armd Wkshp
+	     C/O 56 APO
+-------------------------------------
+Date  :2002-01-01		    Bill No :30388
+Name  :Vinay Gupta
+Phone :8417914602
+=====================================
+ITEM		 QTY		PRICE
+=====================================
+Bath Soap		  2		 0
+Hair Spray		 2		 0
+Food Oil		 2		 0
+Wheat		 2		 0
+Cock		 2		 0
+Thumbs Up		 2		 0
+
+-------------------------------------Total		  12	       0.0
+Tax  			       0.0 
+Amt To Pay  			       0.0 
+-------------------------------------
+	   ***Thank You***
+	  ****Shop Again****

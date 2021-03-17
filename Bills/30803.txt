@@ -1,0 +1,27 @@
+
+	    SHOOPING BILL
+	  6004(I)Armd Wkshp
+	     C/O 56 APO
+-------------------------------------
+Date  :2002-01-01		    Bill No :30803
+Name  :Chandni Gupta
+Phone :8417914602
+=====================================
+ITEM		 QTY		PRICE
+=====================================
+Bath Soap		  2		 80
+Face Cream		 5		 300
+Hair Gell		 5		 800
+Rice		 2		 110
+Wheat		 1		 22
+Tea		 2		 250
+Cock		 5		 400
+Frooti		 2		 150
+Limca		 2		 140
+
+-------------------------------------Total		  26	       2252.0
+Tax  			       112.6 
+Amt To Pay  			       2364.6 
+-------------------------------------
+	   ***Thank You***
+	  ****Shop Again****

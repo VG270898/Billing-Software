@@ -1,0 +1,26 @@
+
+	    SHOOPING BILL
+	  6004(I)Armd Wkshp
+	     C/O 56 APO
+-------------------------------------
+Date  :2002-01-01		    Bill No :38507
+Name  :JP GUPTA
+Phone :8417914602
+=====================================
+ITEM		 QTY		PRICE
+=====================================
+Bath Soap		  2		 80
+Hair Spray		 1		 130
+Hair Gell		 1		 160
+Rice		 4		 220
+Food Oil		 4		 480
+Daal		 2		 190
+Frooti		 4		 300
+Thumbs Up		 4		 320
+
+-------------------------------------Total		  22	       1880.0
+Tax  			       94.0 
+Amt To Pay  			       1974.0 
+-------------------------------------
+	   ***Thank You***
+	  ****Shop Again****

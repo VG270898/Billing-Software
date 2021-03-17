@@ -1,0 +1,28 @@
+
+	    SHOOPING BILL
+	  6004(I)Armd Wkshp
+	     C/O 56 APO
+-------------------------------------
+Date  :2002-01-01		    Bill No :13769
+Name  :Vishal Gupta
+Phone :8417914602
+=====================================
+ITEM		 QTY		PRICE
+=====================================
+Bath Soap		  2		 80
+Face Wash		 2		 200
+Hair Spray		 1		 130
+Rice		 5		 275
+Daal		 2		 190
+Sugar		 5		 200
+Mazza		 2		 150
+Frooti		 2		 150
+Thumbs Up		 1		 80
+Sprite		 1		 80
+
+-------------------------------------Total		  23	       1535.0
+Tax  			       76.75 
+Amt To Pay  			       1611.75 
+-------------------------------------
+	   ***Thank You***
+	  ****Shop Again****
